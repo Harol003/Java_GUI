@@ -3,14 +3,13 @@ EMail: Harol.Torres@Pi.edu.co
  POLITECNICO INTERNACIONAL | ROGRAMACIÓN I |  Ejemplos Basicos GUI Java
 
 
-![login_background](https://github.com/Harol003/Java_GUI/assets/66041310/04e182d6-c82f-4c31-b857-1b6e16188a0c)
+![Slogan-poli-blanco](https://github.com/Harol003/Java_GUI/assets/66041310/29458b8b-a352-4f5d-97a1-9eb921cd3d39)
 
 JFrame, una parte fundamental de la biblioteca de interfaz gráfica de usuario Java Swing, desempeña un papel esencial en la creación de interfaces visuales interactivas en aplicaciones Java. Sirve como una ventana personalizable donde se pueden organizar y presentar diversos componentes gráficos, como botones, etiquetas y campos de texto. Las características clave de JFrame incluyen la capacidad de establecer títulos, íconos y botones de cierre, así como la gestión de eventos de usuario, lo que permite interacciones dinámicas. Además, su versatilidad y extensibilidad permiten desarrollar aplicaciones desde las más simples hasta las más complejas, mediante la combinación de diferentes componentes y características.
 
 A continuación, se presenta un ejemplo básico de cómo usar JFrame para construir una pequeña aplicación de calculadora en Java:
 
-![11](https://github.com/Harol003/Java_GUI/assets/66041310/7242bfe6-ea44-4f25-9e7a-43e572d49dc6)
-
+![java-development-banner1](https://github.com/Harol003/Java_GUI/assets/66041310/6ac3b2ca-e8a0-4b29-9d67-d0daf5328f38)
 
 
 ```java
