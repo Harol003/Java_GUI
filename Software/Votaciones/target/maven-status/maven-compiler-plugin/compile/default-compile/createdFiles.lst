@@ -1,0 +1,6 @@
+vista\VotacionView.class
+modelo\VotacionModel.class
+modelo\Candidato.class
+controlador\VotacionController.class
+controlador\VotacionController$1.class
+com\mycompany\votaciones\Votaciones.class
